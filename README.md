@@ -1,8 +1,11 @@
-FreeCodeCamp - Front End Development Libraries
+# FreeCodeCamp - Front End Development Libraries
 
-https://www.freecodecamp.org/learn/front-end-development-libraries/#front-end-development-libraries-projects
+## Markdown Previewer Project
 
 [TECH USED] - Vite(React), Marked.JS, React Icons
+
+- [ Demo ] - (https://fcc-markdown-previewer-amber.vercel.app)
+
 
 
 User Story #1: I can see a textarea element with a corresponding id="editor".
@@ -19,5 +22,3 @@ User Story #6: When my markdown previewer first loads, the default markdown in t
 
 Optional Bonus (you do not need to make this test pass): My markdown previewer interprets carriage returns and renders them as br (line break) elements.
 
-
-- [Demo link] - (https://fcc-markdown-previewer-amber.vercel.app)
