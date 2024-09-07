@@ -1,3 +1,8 @@
+FreeCodeCamp - Front End Development Libraries
+[TECH USED] - Vite(React), Marked.JS, React Icons
+
+https://www.freecodecamp.org/learn/front-end-development-libraries/#front-end-development-libraries-projects
+
 User Story #1: I can see a textarea element with a corresponding id="editor".
 
 User Story #2: I can see an element with a corresponding id="preview".
