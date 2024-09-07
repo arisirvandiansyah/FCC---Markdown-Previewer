@@ -1,5 +1,6 @@
 FreeCodeCamp - Front End Development Libraries
-[TECH USED] - Vite(React), Marked.JS, React Icons
+
+- [TECH USED] - Vite(React), Marked.JS, React Icons
 
 https://www.freecodecamp.org/learn/front-end-development-libraries/#front-end-development-libraries-projects
 
@@ -18,4 +19,4 @@ User Story #6: When my markdown previewer first loads, the default markdown in t
 Optional Bonus (you do not need to make this test pass): My markdown previewer interprets carriage returns and renders them as br (line break) elements.
 
 
-[Demo link] - (https://fcc-markdown-previewer-amber.vercel.app)
+- [Demo link] - (https://fcc-markdown-previewer-amber.vercel.app)
